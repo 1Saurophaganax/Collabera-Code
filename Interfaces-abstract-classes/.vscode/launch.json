@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Jojodream",
+            "request": "launch",
+            "mainClass": "Jojodream",
+            "projectName": "Java_2ee684f7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Fishyclasses",
+            "request": "launch",
+            "mainClass": "Fishyclasses",
+            "projectName": "Java_2ee684f7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - mainprogram",
+            "request": "launch",
+            "mainClass": "mainprogram",
+            "projectName": "Java_2ee684f7"
+        }
+    ]
+}
