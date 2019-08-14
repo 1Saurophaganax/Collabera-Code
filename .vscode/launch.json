@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exercise",
+            "request": "launch",
+            "mainClass": "Exercise",
+            "projectName": "Collabera-Code_2710c025"
+        }
+    ]
+}
