@@ -2,6 +2,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - StringReverse",
+            "request": "launch",
+            "mainClass": "StringReverse",
+            "projectName": "Collabera-Code_2710c025"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Immutable",
+            "request": "launch",
+            "mainClass": "Immutable",
+            "projectName": "Collabera-Code_2710c025"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FileIOPresent",
+            "request": "launch",
+            "mainClass": "FileIOPresent",
+            "projectName": "Collabera-Code_2710c025"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TreeHeight",
+            "request": "launch",
+            "mainClass": "TreeHeight",
+            "projectName": "Collabera-Code_2710c025"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}",
+            "projectName": "Collabera-Code_2710c025"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Exercise",
             "request": "launch",
             "mainClass": "Exercise",

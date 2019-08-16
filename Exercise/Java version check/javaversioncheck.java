@@ -1,4 +1,9 @@
-
+/**
+ * 
+ * @author me
+ * 
+ * @apiNote day
+ */
 class javaversioncheck {
 
   public static void main(String[] args) {
