@@ -40,7 +40,7 @@ class Person {
      Jotaro.generateSSN("2384");
      Jolyne.generateSSN("353");
  
-     System.out.println("Person Josukes ssn is " + Josiah.getssn());
+     System.out.println("Person Josiah's ssn is " + Josiah.getssn());
      System.out.println("Person Jolyne's ssn is " + Jolyne.getssn());
      System.out.println("Person Jotaro's ssn is " + Jotaro.getssn());
  
