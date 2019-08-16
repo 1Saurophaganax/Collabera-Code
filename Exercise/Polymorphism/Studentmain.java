@@ -40,9 +40,9 @@ class Studentmain{
     Jotaro.generateID("2384");
     Jolyne.generateID("353");
 
-    System.out.println("Student " + Josuke.getId() + " is a graduate");
-    System.out.println("Student " + Jolyne.getId() + " is an undergrad");
-    System.out.println("Student " + Jotaro.getId() + " is an undergrad");
+    System.out.println("Student Josukes ID is " + Josuke.getId());
+    System.out.println("Student Jolyne's ID is " + Jolyne.getId());
+    System.out.println("Student Jotaro's ID is " + Jotaro.getId());
 
     }
 }
