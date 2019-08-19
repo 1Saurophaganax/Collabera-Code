@@ -11,8 +11,8 @@ class FileIOPresent {
 	PrintWriter outStream = new PrintWriter(fOStream);
 
 	//writes data to file
-	outStream.println("Secret Technique: RUNWAY!");
-	outStream.println(42047);
+	outStream.println("On that day, mankind received a grim reminder of me! Dio!");
+	outStream.println(64209);
     outStream.println(true);
     outStream.close();
     
@@ -23,7 +23,6 @@ class FileIOPresent {
 
 	s = bReader.readLine();
 	n = bReader.readLine();
-	
 	b = bReader.readLine();
 
 	String str = s;
@@ -31,7 +30,7 @@ class FileIOPresent {
 	boolean bool = Boolean.parseBoolean(b);
 
     
-	
+	System.out.println("Contents of File:\n");
 	System.out.println(str);
 	System.out.println(num);
 	System.out.println(bool);
